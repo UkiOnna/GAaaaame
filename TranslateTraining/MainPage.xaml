@@ -1,0 +1,26 @@
+﻿<Page x:Class="TranslateTraining.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TranslateTraining"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="MainPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button Name="openTranslateWindowButton" Grid.Row="0" Content="Переводчик" Click="OpenTranslateWindowButtonClick"/>
+        <Button Name="openGamesWindowButton" Grid.Row="1" Content="Игры" Click="openGamesWindowButtonClick"/>
+        <Button Name="openLearnedWordsWindowButton" Grid.Row="2" Content="Выученные слова"/>
+        <Button Name="openSettingWindowButton" Grid.Row="3" Content="Настройки"/>
+        <Button Name="openReferenceWindowButton" Grid.Row="4" Content="Справка"/>
+        <Button Name="closeWindowButton" Grid.Row="5" Content="Выход"/>
+    </Grid>
+</Page>

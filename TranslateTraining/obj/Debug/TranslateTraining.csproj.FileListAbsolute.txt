@@ -1,0 +1,87 @@
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\bin\Debug\TranslateTraining.exe.config
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\bin\Debug\TranslateTraining.exe
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\bin\Debug\TranslateTraining.pdb
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\obj\Debug\MainPage.g.cs
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\obj\Debug\MainWindow.g.cs
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\obj\Debug\App.g.cs
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\obj\Debug\TranslateTraining_MarkupCompile.cache
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\obj\Debug\TranslateTraining_MarkupCompile.lref
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\obj\Debug\MainPage.baml
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\obj\Debug\MainWindow.baml
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\obj\Debug\TranslateTraining.g.resources
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\obj\Debug\TranslateTraining.Properties.Resources.resources
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\obj\Debug\TranslateTraining.csproj.GenerateResource.Cache
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\obj\Debug\TranslateTraining.exe
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\obj\Debug\TranslateTraining.pdb
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\obj\Debug\TranslateWindow.g.cs
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\obj\Debug\TranslateWindow.baml
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\bin\Debug\RestSharp.dll
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\bin\Debug\YandexLinguistics.NET.dll
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\bin\Debug\RestSharp.xml
+c:\users\асылхана\documents\visual studio 2017\Projects\TranslateTraining\TranslateTraining\obj\Debug\TranslateTraining.csprojResolveAssemblyReference.cache
+C:\Users\Азат\source\repos\Translator\TranslateTraining\bin\Debug\TranslateTraining.exe.config
+C:\Users\Азат\source\repos\Translator\TranslateTraining\bin\Debug\TranslateTraining.exe
+C:\Users\Азат\source\repos\Translator\TranslateTraining\bin\Debug\TranslateTraining.pdb
+C:\Users\Азат\source\repos\Translator\TranslateTraining\bin\Debug\RestSharp.dll
+C:\Users\Азат\source\repos\Translator\TranslateTraining\bin\Debug\YandexLinguistics.NET.dll
+C:\Users\Азат\source\repos\Translator\TranslateTraining\bin\Debug\RestSharp.xml
+C:\Users\Азат\source\repos\Translator\TranslateTraining\obj\Debug\TranslateTraining.csprojResolveAssemblyReference.cache
+C:\Users\Азат\source\repos\Translator\TranslateTraining\obj\Debug\MainPage.g.cs
+C:\Users\Азат\source\repos\Translator\TranslateTraining\obj\Debug\MainWindow.g.cs
+C:\Users\Азат\source\repos\Translator\TranslateTraining\obj\Debug\TranslateWindow.g.cs
+C:\Users\Азат\source\repos\Translator\TranslateTraining\obj\Debug\App.g.cs
+C:\Users\Азат\source\repos\Translator\TranslateTraining\obj\Debug\TranslateTraining_MarkupCompile.cache
+C:\Users\Азат\source\repos\Translator\TranslateTraining\obj\Debug\TranslateTraining_MarkupCompile.lref
+C:\Users\Азат\source\repos\Translator\TranslateTraining\obj\Debug\MainPage.baml
+C:\Users\Азат\source\repos\Translator\TranslateTraining\obj\Debug\MainWindow.baml
+C:\Users\Азат\source\repos\Translator\TranslateTraining\obj\Debug\TranslateWindow.baml
+C:\Users\Азат\source\repos\Translator\TranslateTraining\obj\Debug\TranslateTraining.g.resources
+C:\Users\Азат\source\repos\Translator\TranslateTraining\obj\Debug\TranslateTraining.Properties.Resources.resources
+C:\Users\Азат\source\repos\Translator\TranslateTraining\obj\Debug\TranslateTraining.csproj.GenerateResource.Cache
+C:\Users\Азат\source\repos\Translator\TranslateTraining\obj\Debug\TranslateTraining.csproj.CoreCompileInputs.cache
+C:\Users\Азат\source\repos\Translator\TranslateTraining\obj\Debug\TranslateTraining.exe
+C:\Users\Азат\source\repos\Translator\TranslateTraining\obj\Debug\TranslateTraining.pdb
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\bin\Debug\TranslateTraining.exe.config
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\bin\Debug\TranslateTraining.exe
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\bin\Debug\TranslateTraining.pdb
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\bin\Debug\RestSharp.dll
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\bin\Debug\YandexLinguistics.NET.dll
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\bin\Debug\RestSharp.xml
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\obj\Debug\TranslateTraining.csprojResolveAssemblyReference.cache
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\obj\Debug\MainPage.g.cs
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\obj\Debug\MainWindow.g.cs
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\obj\Debug\TranslateWindow.g.cs
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\obj\Debug\App.g.cs
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\obj\Debug\TranslateTraining_MarkupCompile.cache
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\obj\Debug\TranslateTraining_MarkupCompile.lref
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\obj\Debug\MainPage.baml
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\obj\Debug\MainWindow.baml
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\obj\Debug\TranslateWindow.baml
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\obj\Debug\TranslateTraining.g.resources
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\obj\Debug\TranslateTraining.Properties.Resources.resources
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\obj\Debug\TranslateTraining.csproj.GenerateResource.Cache
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\obj\Debug\TranslateTraining.exe
+C:\Users\СикировТ\Desktop\Translator-master\TranslateTraining\obj\Debug\TranslateTraining.pdb
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\bin\Debug\TranslateTraining.exe.config
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\bin\Debug\TranslateTraining.exe
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\bin\Debug\TranslateTraining.pdb
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\bin\Debug\RestSharp.dll
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\bin\Debug\YandexLinguistics.NET.dll
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\bin\Debug\RestSharp.xml
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\obj\Debug\TranslateTraining.csprojResolveAssemblyReference.cache
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\obj\Debug\MainPage.g.cs
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\obj\Debug\MainWindow.g.cs
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\obj\Debug\TranslateWindow.g.cs
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\obj\Debug\App.g.cs
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\obj\Debug\TranslateTraining_MarkupCompile.cache
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\obj\Debug\TranslateTraining_MarkupCompile.lref
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\obj\Debug\MainPage.baml
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\obj\Debug\MainWindow.baml
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\obj\Debug\TranslateWindow.baml
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\obj\Debug\TranslateTraining.g.resources
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\obj\Debug\TranslateTraining.Properties.Resources.resources
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\obj\Debug\TranslateTraining.csproj.GenerateResource.Cache
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\obj\Debug\TranslateTraining.exe
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\obj\Debug\TranslateTraining.pdb
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\obj\Debug\TestTraining.g.cs
+C:\Users\СикировТ\Desktop\Translator\TranslateTraining\obj\Debug\TestTraining.baml
